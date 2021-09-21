@@ -58,12 +58,15 @@
     .plan{
         height:120px;
     }
+    .center{
+        text-align: left;
+    }
 }
 
 @media only screen and (max-width:991.5px)
 {
     .student{
-        height:200px;
+        height:220px;
         width:250px;
     }
     .plan{
