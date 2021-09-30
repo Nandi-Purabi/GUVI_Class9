@@ -1,2 +1,2 @@
 # GUVI_Class9
-Media Responsive Poster Using Bootstrap Task
+Media Responsive Poster using Bootstrap Task
